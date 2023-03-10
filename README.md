@@ -1,7 +1,12 @@
+<div align="center">
+	<img src="media/header.png" alt="header"> 
+</div><br/>
+
 <h1 align="center">Hi 👋, I'm Haya Abu-Raed</h1>
 <h3 align="center">A passionate frontend developer </h3>
+<br/>
 
-- :mortar_board: I’m currently studying **Computer Systems Engineering** 📍 **Palestine Technical University - Kadoorie
+- :mortar_board: I’m currently studying **Computer Systems Engineering** 📍at **Palestine Technical University - Kadoorie**
 
 - 🌱 I’m currently learning **ReactJS**
 
@@ -9,12 +14,13 @@
 
 - :trophy: 2023 Goals: Contribute and publish more open source projects.
 
-- ⚡ Fun fact **a**
+- ⚡ Fun fact  :airplane:   :pizza:  :books:  :coffee: :basketball: 💻
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@hayaaburaed0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hayaaburaed0" height="30" width="40" /></a>
-<a href="https://fb.com/haya m. aburaed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haya m. aburaed" height="30" width="40" /></a>
+<a href="[https://fb.com/haya m. aburaed"](https://www.facebook.com/profile.php?id=100007628116290)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haya m. aburaed" height="30" width="40" /></a>
 <a href="https://instagram.com/hayaabura3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hayaabura3d" height="30" width="40" /></a>
 </p>
 
