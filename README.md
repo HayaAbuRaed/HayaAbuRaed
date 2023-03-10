@@ -2,7 +2,7 @@
 	<img src="media/header.png" alt="header"> 
 </div><br/>
 
-<h1 align="center">Hi There👋, I'm Haya Abu-Raed</h1>
+<h1 align="center">Hi There 👋, I'm Haya Abu-Raed</h1>
 <h3 align="center">A passionate frontend web developer</h3>
 
 <div align="center">
