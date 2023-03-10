@@ -20,7 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@hayaaburaed0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hayaaburaed0" height="30" width="40" /></a>
-<a href="https://fb.com/Haya M. AbuRaed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haya m. aburaed" height="30" width="40" /></a>
+	
+<a href="[https://fb.com/Haya M. AbuRaed](https://www.facebook.com/profile.php?id=100007628116290)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haya m. aburaed" height="30" width="40" /></a>
+	
 <a href="https://instagram.com/hayaabura3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hayaabura3d" height="30" width="40" /></a>
 </p>
 
