@@ -12,13 +12,12 @@
 
 - :mortar_board: I’m currently studying **Computer Systems Engineering** 📍at **Palestine Technical University - Kadoorie**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 📫 How to reach me **hayaa.aburaed@gmail.com**
 
 - :trophy: 2023 Goals: Contribute and publish more open source projects.
-
-- ⚡ Fun fact  :airplane:   :pizza:  :books:  :coffee: :basketball: 💻
+  
 <br/>
 
 <div align="center">
