@@ -16,7 +16,7 @@
   
 <br />
 
-## Skills
+## 🌟 Skills
 
 ### Frontend Development
 
@@ -52,6 +52,25 @@
 <img src="https://img.shields.io/badge/ASP.NET-purple?style=flat-square&logo=.net&logoColor=%2368217A&labelColor=%23f2f2f2&color=%2368217A" width="95" /> &nbsp;
 <img src="https://img.shields.io/badge/EF%20Core-black?style=flat-square&logo=ef%20core&color=%23000" width="62" />
 
+<br />
+
+## 📨 Get in Touch
+<p align="center">
+   <a href="https://www.facebook.com/profile.php?id=100007628116290">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" width="100" />
+   </a> &nbsp;
+
+   <a href="https://www.instagram.com/hayaabura3d/">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" width="100" />
+   </a> &nbsp;
+
+   <a href="mailto:hayaa.aburaed@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" width="70" />
+   </a> &nbsp;
+
+   <img src="https://img.shields.io/badge/haya__aburaed-%235865F2?style=flat&logo=discord&logoColor=white" width="123" />
+</p>
+
 <br/><br/><br/>
 
 <p align="center">
@@ -59,4 +78,10 @@
    <img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=HayaAbuRaed&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> 
    <br/><br/>
    <img align="center" width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayaAbuRaed&theme=github_dark&show_icons=true&bg_color=0111111"> 
+</p>
+
+<br /> <br />
+
+<p align="center">
+	✨ I'll be glad seeing your feedback, feel free to reach out! ✨
 </p>
