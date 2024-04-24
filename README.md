@@ -57,7 +57,7 @@
 ## 📨 Get in Touch
 <p align="center">
    <a href="https://www.facebook.com/profile.php?id=100007628116290">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" width="100" />
+      <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" width="95" />
    </a> &nbsp;
 
    <a href="https://www.instagram.com/hayaabura3d/">
