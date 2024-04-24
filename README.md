@@ -1,44 +1,62 @@
-<div align="center">
-	<img src="media/header.png" alt="header"> 
-</div><br/>
+![main-background](https://github.com/HayaAbuRaed/HayaAbuRaed/assets/123592435/91fa949a-df8b-4d38-925a-e48f14f59a6c)
 
 <h1 align="center">Hi There 👋, I'm Haya Abu-Raed</h1>
-<h3 align="center">A passionate Computer Systems Engineering student</h3>
+<h3 align="center">A passionate Computer Systems Engineer </h3>
 
 <div align="center">
-	<img alt="GitHub Snake" src="https://raw.githubusercontent.com/HayaAbuRaed/HayaAbuRaed/output/github-contribution-grid-snake.svg" />
+   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/HayaAbuRaed/HayaAbuRaed/output/github-contribution-grid-snake.svg" />
 </div>
 <br/>
 
-- :mortar_board: I’m currently studying **Computer Systems Engineering** 📍at **Palestine Technical University - Kadoorie**
+- 👩🏻‍💻 I’m currently a **Frontend Intern** 📍at **Foothill Technology Solutions**
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **``ctrl + A ``**
 
-- 📫 How to reach me **hayaa.aburaed@gmail.com**
-
-- :trophy: 2023 Goals: Contribute and publish more open source projects.
+- 🛫 Success is a Journey, Not a Destination. 
   
-<br/>
+<br />
 
-<div align="center">
-<h3>Connect with me:</h3>
-<p>
-<a href="https://twitter.com/@hayaaburaed0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hayaaburaed0" height="30" width="40" /></a> 
-<a href="https://www.facebook.com/profile.php?id=100007628116290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haya m. aburaed" height="30" width="40" /></a>	
-<a href="https://instagram.com/hayaabura3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hayaabura3d" height="30" width="40" /></a>
-</p>
-</div>
-<br/>
+## Skills
 
-<div align="center">
-<h3>Languages and Tools:</h3>
-<p> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
-<div/>
+### Frontend Development
+
+#### Languages
+<img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=html5&labelColor=%23f2f2f2&color=red" width="80" /> &nbsp; 
+<img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=%231572B6&labelColor=%23f2f2f2&color=%231572B6" width="70" /> &nbsp; 
+<img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&labelColor=%23f2f2f2&color=%23F7DF1E" width="110" /> &nbsp; 
+<img src="https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=typescript&labelColor=%23f2f2f2&color=%23007ACC" width="110" />
+
+#### Tools & Package Managers:
+<img src="https://img.shields.io/badge/npm-red?style=flat-square&logo=npm&labelColor=%23f2f2f2&color=%20%23CB3837" width="70" /> &nbsp;
+<img src="https://img.shields.io/badge/Yarn-blue?style=flat-square&logo=yarn&labelColor=%23f2f2f2&color=%232C8EBB" width="70" />
+
+#### Frameworks & Libraries:
+<img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react&labelColor=%23f2f2f2&color=%2361DAFB" width="79" /> &nbsp;
+<img src="https://img.shields.io/badge/React%20Query-pink?style=flat-square&logo=react%20query&labelColor=%23f2f2f2&color=%20%23EF4B69" width="128" /> &nbsp;
+<img src="https://img.shields.io/badge/MUI-blue?style=flat-square&logo=mui&labelColor=%23f2f2f2&color=%232196F3" width="68" />
+
+#### Build Tools:
+<img src="https://img.shields.io/badge/Vite-purple?style=flat-square&logo=vite&labelColor=%23f2f2f2&color=%20%23646cff" width="68" />
+
+<br />
+
+### Backend Development
+
+#### Languages:
+<img src="https://img.shields.io/badge/C%20Sharp-purple?style=flat-square&logo=csharp&logoColor=%23158078&labelColor=%23f2f2f2&color=%23158078" width="95" />
+
+#### Database:
+<img src="https://img.shields.io/badge/SQL-black?style=flat-square&color=%23000" width="40" />
+
+#### Frameworks & Libraries:
+<img src="https://img.shields.io/badge/ASP.NET-purple?style=flat-square&logo=.net&logoColor=%2368217A&labelColor=%23f2f2f2&color=%2368217A" width="95" /> &nbsp;
+<img src="https://img.shields.io/badge/EF%20Core-black?style=flat-square&logo=ef%20core&color=%23000" width="62" />
+
 <br/><br/><br/>
 
 <p align="center">
-<img align="center" width="285" src="https://github-readme-stats.vercel.app/api?username=HayaAbuRaed&show_icons=true&theme=github_dark&&hide_border=true"> 
-<img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=HayaAbuRaed&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> 
-<br/><br/>
-<img align="center" width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayaAbuRaed&theme=github_dark&show_icons=true&bg_color=0111111"> 
+   <img align="center" width="285" src="https://github-readme-stats.vercel.app/api?username=HayaAbuRaed&show_icons=true&theme=github_dark&&hide_border=true"> 
+   <img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=HayaAbuRaed&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> 
+   <br/><br/>
+   <img align="center" width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayaAbuRaed&theme=github_dark&show_icons=true&bg_color=0111111"> 
 </p>
