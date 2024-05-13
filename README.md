@@ -8,6 +8,8 @@
 </div>
 <br/>
 
+<!-- <img src="https://komarev.com/ghpvc/?username=HayaAbuRaed&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"  /> -->
+
 - 👩🏻‍💻 I’m currently a **Frontend Intern** 📍at **Foothill Technology Solutions**
 
 - 🌱 I’m currently learning **``ctrl + A ``**
